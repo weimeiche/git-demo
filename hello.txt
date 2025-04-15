@@ -15,3 +15,5 @@ update by outloook accout 44444444444
 
 
 update by huatec 666666
+
+ssh 免密提交远程库
